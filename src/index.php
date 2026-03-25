@@ -70,6 +70,7 @@
                 </tr>
             </thead>
             <tbody>
+                
 
             <?php
             $result = $conn->query("SELECT * FROM productos");
